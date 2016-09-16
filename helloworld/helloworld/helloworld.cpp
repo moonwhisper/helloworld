@@ -1,8 +1,8 @@
-// helloworld.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌĞòµÄÈë¿Úµã¡£
+// helloworld.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
 //
 
 #include "stdafx.h"
-
+#include <stdlib.h>
 int main()
 {
 	printf("Hello, welcome to my world in github!");
